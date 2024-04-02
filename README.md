@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 🧑‍💻💫
+## Olá! Seja bem-vindo(a) ao meu perfil! 🧑‍💻💫
 <br>
  <div>
    <a href="https://github.com/Hygorhhss">
@@ -13,8 +13,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
- 
-<br>
  
 ### Segue minhas rede sociais abaixo para contato!
  
