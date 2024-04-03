@@ -1,7 +1,7 @@
 ## Olá! Seja bem-vindo(a) 👋💫
 <br>
-* 🔭 Hoje estou focado em aprendizado Front End.
-* 🌱 Estudando principalmente a lingaugem Javascript para dar continuidade em Framework: React, Angular.
+* 🔭 Hoje estou focado em aprendizado Front End. <br>
+* 🌱 Estudando principalmente a lingaugem Javascript para dar continuidade em Framework: React, Angular.<br>
 * 📫 Contato-me por e-mail: hygorhhss@outlook.com
  <div>
    <a href="https://github.com/Hygorhhss">
