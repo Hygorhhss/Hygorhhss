@@ -14,7 +14,7 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
  
-### Segue minhas rede sociais abaixo para contato!
+### Segue minhas redes sociais abaixo para contato!
  
 <div>
   <a href ="mailto:hygorhhss@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
