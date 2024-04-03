@@ -2,8 +2,8 @@
  <br>
  <li>🔭 Hoje estou focado em aprendizado Front End.
  <li>🌱 Estudando principalmente a lingaugem Javascript para dar continuidade em Framework: React, Angular.
- <li>📫 Contato-me por e-mail: hygorhhss@outlook.com
- <br> 
+ <li>📫 Contato-me por e-mail: hygorhhss@outlook.com 
+  <br>
  <div>
    <a href="https://github.com/Hygorhhss">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hygorhhss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
