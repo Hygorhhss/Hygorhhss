@@ -1,8 +1,10 @@
 ## Olá! Seja bem-vindo(a) 👋💫
-<br>
-* 🔭 Hoje estou focado em aprendizado Front End. <br>
-* 🌱 Estudando principalmente a lingaugem Javascript para dar continuidade em Framework: React, Angular.<br>
-* 📫 Contato-me por e-mail: hygorhhss@outlook.com
+
+<ul>
+ <li>🔭 Hoje estou focado em aprendizado Front End.<li/>
+ <li>🌱 Estudando principalmente a lingaugem Javascript para dar continuidade em Framework: React, Angular.<li/>
+ <li>📫 Contato-me por e-mail: hygorhhss@outlook.com<li/>
+ <ul/>
  <div>
    <a href="https://github.com/Hygorhhss">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hygorhhss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
